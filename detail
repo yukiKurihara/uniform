@@ -1,0 +1,52 @@
+
+<html>
+	<head>
+		<title>ホーム画面</title>
+	</head>
+	<body>
+	<!-- cssでデザインを作る -->
+	
+	<style>	
+	.strong{
+		font-weight: bold;
+	}
+	</style>
+	<center>
+	<!-- ヘッダー -->
+		<font size="13" class="strong">ユニフォーム管理システム</font>
+		<hr size="5" color="blue" width="950"></hr>
+	<!-- タイトル -->	
+		<font size="6" class="strong">商品詳細画面</font></td>
+		<hr size="5" color="blue" width="950"></hr>
+		<br>
+		<br>
+	<!-- メニュー表示 -->
+		<font size="4" class="strong">[商品詳細]</font>
+		<br>
+		<br>
+		<font size="4" class="strong">[商品番号]:    0001</font><br>
+		<font size="4" class="strong">[商品名]:    テストユニフォーム</font><br>
+		<font size="4" class="strong">[サイズ]:    M</font><br>
+		<font size="4" class="strong">[在庫]:    〇</font><br>
+		<font size="4" class="strong">[金額]:    1001</font><br>
+		<br>
+		<font size="4" class="strong">変更  /  削除</font><br>
+		<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	</body>
+		<hr align="center" size="5" color="blue" width="950"></hr>
+	
+	<br>
+	<br>
+	<!-- フッター -->
+        <font class="strong" size="4">フッター</font>
+	</center>
+</html>
+
